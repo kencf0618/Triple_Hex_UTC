@@ -1,3 +1,3 @@
-Ambient hexadecimal clock using hex triplet web colors.
-Aesthetic and possibly pedagogical.
-Generated using DeepSeek.
+Ambient hexadecimal clock of hex triplet web colors.
+Aesthetic and possibly useful.
+DeepSeek spawn.
